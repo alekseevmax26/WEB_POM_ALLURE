@@ -1,0 +1,11 @@
+pytest~=6.2.4
+selenium~=3.141.0
+bs4~=0.0.1
+beautifulsoup4~=4.9.3
+names~=0.3.0
+python-dotenv~=0.18.0
+twilio~=6.62.0
+allure-pytest==2.8.18
+pytest-xdist==2.1.0
+requests==2.24.0
+lxml~=4.6.4
